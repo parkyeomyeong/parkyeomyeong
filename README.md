@@ -8,9 +8,7 @@
 
 # BackJoon Tier
 <!-- BOX -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkyeomyeong)](https://solved.ac/parkyeomyeong)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkyeomyeong)](https://solved.ac/parkyeomyeong)
 
 <!-- MINI -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkyeomyeong)](https://solved.ac/parkyeomyeong)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkyeomyeong)](https://solved.ac/parkyeomyeong)
