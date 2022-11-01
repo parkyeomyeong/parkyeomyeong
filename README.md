@@ -4,11 +4,11 @@
 멈춰있는 것에 대한 거부감을 가지고 있고 배움과 앎을 좋아하며 "일단 시작"을 지키며 살고 있습니다.  
 좌우명은 💡 "목표는 무한하게 계획은 철저하게 실행은 단순무식하게"입니다.  
 
-<br>
-### 💻Skills
+  
+## 💻Skills
 
 🌷 used as the main  
-<img src="https://img.shields.io/badge/Java-0B4EA2?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-0B4EA2?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black">
@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">  
 
 
+## 🧾Career
 |   Type   |       Date       |                              Contents                             |    Organization    | Note |
 |:--------:|:----------------:|:-----------------------------------------------------------------:|:------------------:|:----:|
 |     👨‍🎓     | 2016.02~ 2023.02 |           Department of Information & System Engineering          | Hansung University |      |
@@ -44,10 +45,14 @@
 | Activity | 2021.03~ 2021.12 | 인공지능(AI) 전문과정 수료 (교내에서 인공지능 전문과전 수업 수료) | Hansung University |      |
 | Activity | 2022.05~ 2022.06 |          멋쟁이사자 NFT 블록체인 마켓 앱 만들기 2기 수료          |     멋쟁이사자     |      |
 |   Work   | 2021.06~ 2022.01 |                     working in Design x Play                      |    Design x Play   |      |
-<br>
+
+
+## 
+  
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=parkyeomyeong&layout=compact&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyeomyeong&layout=compact&theme=dracula)](https://github.com/metleeha)
-<br>
+  
 # BackJoon Tier
 <!-- BOX -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrduaud)](https://solved.ac/qkrduaud)
