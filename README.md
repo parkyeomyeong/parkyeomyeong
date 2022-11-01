@@ -6,8 +6,9 @@
 
 <br>
 ### 💻Skills
-<br>
+
 🌷 used as the main  
+<img src="https://img.shields.io/badge/Java-0B4EA2?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black">
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=black">  
-<br>
+
 🌿 used many times  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
@@ -27,12 +28,12 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black">  
-<br>
+
 🌱 used at least once  
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">  
-<br>
+
 
 |   Type   |       Date       |                              Contents                             |    Organization    | Note |
 |:--------:|:----------------:|:-----------------------------------------------------------------:|:------------------:|:----:|
@@ -43,12 +44,10 @@
 | Activity | 2021.03~ 2021.12 | 인공지능(AI) 전문과정 수료 (교내에서 인공지능 전문과전 수업 수료) | Hansung University |      |
 | Activity | 2022.05~ 2022.06 |          멋쟁이사자 NFT 블록체인 마켓 앱 만들기 2기 수료          |     멋쟁이사자     |      |
 |   Work   | 2021.06~ 2022.01 |                     working in Design x Play                      |    Design x Play   |      |
-
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=parkyeomyeong&layout=compact&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyeomyeong&layout=compact&theme=dracula)](https://github.com/metleeha)
-
 <br>
-
 # BackJoon Tier
 <!-- BOX -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrduaud)](https://solved.ac/qkrduaud)
