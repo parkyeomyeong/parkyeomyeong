@@ -1,9 +1,9 @@
 <div align="center">
-[![yeomyeongpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyeomyeong)](https://github.com/parkyeomyeong/github-readme-stats)
-
-# 잔디
-<!-- BackJoon Tier -->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=parkyeomyeong&theme=warm)
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api?username=parkyeomyeong&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyeomyeong&layout=compact&theme=dracula)](https://github.com/metleeha)
+  
 
 
 # BackJoon Tier
