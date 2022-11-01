@@ -1,13 +1,16 @@
 
-박여명
-<hr>
-
 # introduce:
 제 이름처럼 다른 사람의 삶을 밝혀주는 일을 하는 개발자가 되고싶습니다.
 
-# university :
-hansung university(2016.02~2023.02)
-
+| Type     | Date             | Contents                                                          | Organization       | Note |
+|----------|------------------|-------------------------------------------------------------------|--------------------|------|
+|          | 2016.02~ 2023.02 | Department of Information & System Engineering                    | Hansung University |      |
+| Award    | 2020.11          | 2020 공개SW 개발자대회 엘에스웨어상                               | OSS                |      |
+| Award    | 2021.09          | 한성대학교 공학경진대회 동상 (공공장소대중알림서비스로 입상)      | Hansung University |      |
+| Activity | 2021.03~ 2021.06 | 교내 튜터링 (C언어)                                               | Hansung University |      |
+| Activity | 2021.03~ 2021.12 | 인공지능(AI) 전문과정 수료 (교내에서 인공지능 전문과전 수업 수료) | Hansung University |      |
+| Activity | 2022.05~ 2022.06 | 멋쟁이사자 NFT 블록체인 마켓 앱 만들기 2기 수료                   | 멋쟁이사자         |      |
+| Work     | 2021.06~ 2022.01 | working in Design x Play                                          | Design x Play      |      |
 # 기술스택
 
 지금 주로 쓰는거
@@ -21,20 +24,6 @@ python, java, spring,
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=parkyeomyeong&layout=compact&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyeomyeong&layout=compact&theme=dracula)](https://github.com/metleeha)
   
-
-# award
-- 공개소프트개발자 대회 엘에스웨어 상
-- 한성대학교 공학 경진대회 동상
-
-# activity
-- 한성대학교 야구동아리 turtles
-- 한성대학교 학술동아리 #include (2018.10~2021.12)
-- 한성대학교 튜터링 (c언어 2018.03~2018.06) 
-- 한성대학교 MD(Machine learning Degree)과정 수료(2019.02~2021.06)
-- disign x play 개발부서 근무 (2021.06~2022.01)
-
-
-
 # BackJoon Tier
 <!-- BOX -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrduaud)](https://solved.ac/qkrduaud)
