@@ -1,4 +1,4 @@
-
+<div align="center">
 [![yeomyeongpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyeomyeong)](https://github.com/parkyeomyeong/github-readme-stats)
 
 # 잔디
@@ -12,3 +12,4 @@
 
 <!-- MINI -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrduaud)](https://solved.ac/qkrduaud)
+</div>
