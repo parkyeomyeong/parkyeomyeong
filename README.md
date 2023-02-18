@@ -49,6 +49,7 @@
 | Activity | 2021.03~ 2021.12 | 인공지능(AI) 전문과정 수료 (교내에서 인공지능 전문과정 수업 수료) | Hansung University |      |
 | Activity | 2022.05~ 2022.06 |          멋쟁이사자 NFT 블록체인 마켓 앱 만들기 2기 수료          |     멋쟁이사자     |      |
 |   Work   | 2021.06~ 2022.01 |                     working in Design x Play                      |    Design x Play   |      |
+| Activity | 2022.07~ 2023.02 |           MSA기반 Full Stack 개발 전문가 양성과정 수료(1200시간)          |    한국소프트웨어산업협회   |   최종프로젝트🥉   |
 
 
 ## 
