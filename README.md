@@ -53,7 +53,7 @@
 | Activity | 2022.05~ 2022.06 |          멋쟁이사자 NFT 블록체인 마켓 앱 만들기 2기 수료          |     멋쟁이사자     |      |
 |   Work   | 2021.06~ 2022.01 |                     working in Design x Play                      |    Design x Play   |      |
 | Activity | 2022.07~ 2023.02 |           MSA기반 Full Stack 개발 전문가 양성과정 수료(1200시간)          |    한국소프트웨어산업협회   |   최종프로젝트🥉   |
-|   Work   | 2023.04~         |           working in (주)아성 다이소  ERP개발          |    (주)아성 다이소   |      |
+|   Work   | 2023.04~         |           working in (주)아성 다이소  ERP 유지 보수 및 신규프로그램 개발          |    (주)아성 다이소   |      |
 
 
 ## 
