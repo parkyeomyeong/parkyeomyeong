@@ -54,6 +54,7 @@
 |   Work   | 2021.06~ 2022.01 |                     working in Design x Play                      |    Design x Play   |      |
 | Activity | 2022.07~ 2023.02 |           MSA기반 Full Stack 개발 전문가 양성과정 수료(1200시간)          |    한국소프트웨어산업협회   |   최종프로젝트🥉   |
 |   Work   | 2023.04~         |           working in (주)아성 다이소  ERP 유지 보수 및 신규프로그램 개발          |    (주)아성 다이소   |      |
+| Activity | 2025.04~ 2025.08 |           사이프 개발 커뮤니티 동아리                              |    사이프   |      |
 
 
 ## 
