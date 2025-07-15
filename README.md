@@ -57,12 +57,13 @@
 | Activity | 2025.04~ 2025.08 |           사이프 개발 커뮤니티 동아리                              |    사이프   |      |
 
 
-## 
-  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api?username=parkyeomyeong&layout=compact&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyeomyeong&layout=compact&theme=dracula)](https://github.com/metleeha)
-  
-# BackJoon Tier
-<!-- BOX -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrduaud)](https://solved.ac/qkrduaud)
+---
+<details>
+  <summary>Git Status</summary>
+  ![Top Langs](https://github-readme-stats.vercel.app/api?username=parkyeomyeong&layout=compact&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyeomyeong&layout=compact&theme=dracula)](https://github.com/metleeha)
+</details>
+<details>
+  <summary>BOJ Status</summary>
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrduaud)](https://solved.ac/qkrduaud)
+</details>
