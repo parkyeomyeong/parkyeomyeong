@@ -60,10 +60,15 @@
 ---
 <details>
   <summary>Git Status</summary>
-  ![Top Langs](https://github-readme-stats.vercel.app/api?username=parkyeomyeong&layout=compact&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyeomyeong&layout=compact&theme=dracula)](https://github.com/metleeha)
+  <img src="https://github-readme-stats.vercel.app/api?username=parkyeomyeong&layout=compact&theme=tokyonight" alt="GitHub Stats">
+
+  <a href="https://github.com/metleeha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkyeomyeong&layout=compact&theme=dracula" alt="Top Languages">
+  </a>
 </details>
 <details>
   <summary>BOJ Status</summary>
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrduaud)](https://solved.ac/qkrduaud)
+  <a href="https://solved.ac/qkrduaud">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrduaud" alt="Solved.ac 프로필">
+  </a>
 </details>
