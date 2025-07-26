@@ -37,9 +37,6 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black">
 <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">  
 
-
-
-
 ## 🧾Career
 |   Type   |       Date       |                              Contents                             |    Organization    | Note |
 |:--------:|:----------------:|:-----------------------------------------------------------------:|:------------------:|:----:|
