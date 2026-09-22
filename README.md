@@ -7,6 +7,7 @@
 
 ## 🏃project in progress
 - [사이드 프로젝트]사내 식단메뉴 공지 및 주변 맛집 추천 서비스 https://github.com/meoku (20240105 ~)
+- 사내 프로젝트 https://d3c9vzbse159d0.cloudfront.net (20260301~)
   
 ## 💻Skills
 <img src="https://img.shields.io/badge/Java-0B4EA2?style=flat-square&logo=Java&logoColor=white">
@@ -48,9 +49,10 @@
 | Activity | 2022.05~ 2022.06 |          멋쟁이사자 NFT 블록체인 마켓 앱 만들기 2기 수료          |     멋쟁이사자     |      |
 |   Work   | 2021.06~ 2022.01 |                     working in Design x Play                      |    Design x Play   |      |
 | Activity | 2022.07~ 2023.02 |           MSA기반 Full Stack 개발 전문가 양성과정 수료(1200시간)          |    한국소프트웨어산업협회   |   최종프로젝트🥉   |
-|   Work   | 2023.04~         |           working in (주)아성 다이소  ERP 유지 보수 및 신규프로그램 개발          |    (주)아성 다이소   |      |
+|   Work   | 2023.04~         |           working in (주)아성 다이소  ERP 유지 보수 및 신규프로그램 개발          |    (주)아성다이소   |      |
 | Activity | 2025.04~ 2025.08 |           사이프 개발 커뮤니티 동아리                              |    사이프   |      |
 | Activity | 2026.03~ 2026.06 |           반가워[모임장소 추천 앱] 서버 개발                              |    DDD   |      |
+| Work | 2026.03~ 2026.06 |           화장품 관련 AR, 챗봇 서비스                              |    (주)아성다이소   |      |
 
 </div>
 
